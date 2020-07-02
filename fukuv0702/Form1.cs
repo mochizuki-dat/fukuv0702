@@ -24,7 +24,7 @@ namespace fukuv0702
 
         private void button2_Click(object sender, EventArgs e)
         {
-            button2.Text = "変更";
+            button2.Text = "変更完了";
         }
     }
 }
